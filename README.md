@@ -50,6 +50,8 @@ This will start the development server, and you can view the application in your
 ## Dashboard
 🚧 Under Construction 🚧
 
+**Note:** For security and data privacy reasons, specific files or directories containing sensitive information have been omitted from the repository. Consequently, the backend functionality will not be operational, and only the frontend will be visible. However, graphical elements may be absent. Please be aware that this limitation is intentional to safeguard data privacy.
+
 
 ## Learn More
 
