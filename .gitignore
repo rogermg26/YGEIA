@@ -1,2 +1,6 @@
 exportar_dades/
 get_functions.tsx
+map_ANS.tsx
+map_DEP.tsx
+map_TCA.tsx
+map_ESQZ.tsx
