@@ -2,9 +2,10 @@
 ![Índex](images/index.png)
 
 ## Installation and Usage
-### Prerequisites
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+### Prerequisites
 
 Ensure you have the following installed on your system:
 - **Node.js** (version 14.x or higher)
