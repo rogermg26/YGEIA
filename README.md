@@ -1,6 +1,6 @@
 # YGEIA
-![Índex](images/index.png)
 
+![Dashboard](images/index.png)
 
 ## Dashboard
 This project addresses critical mental health challenges in Catalonia's public health system by focusing on the social and health determinants that influence mental disorders. The integration of health and public data forms the cornerstone of this initiative, providing a comprehensive view of mental health across the region. This data supports the development of predictive models and analyses to identify trends, risk factors, and intervention opportunities.
@@ -11,6 +11,7 @@ By leveraging technological innovation, data analysis, and interdisciplinary col
 
 **Note:** For security and data privacy reasons, specific files or directories containing sensitive information have been omitted from the repository. Consequently, the backend functionality will not be operational, and only the frontend will be visible. However, graphical elements may be absent. Please be aware that this limitation is intentional to safeguard data privacy.
 
+![Logotpis](images/Logotips.png)
 
 ## Installation and Usage
 
