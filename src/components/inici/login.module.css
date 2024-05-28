@@ -1,0 +1,84 @@
+/* login.module.css */
+.loginForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.inputContainer {
+  position: relative;
+  width: 250px; /* Ajusta el ancho según tus necesidades */
+  margin-bottom: 10px;
+}
+
+.inputIcon {
+  position: absolute;
+  top: 50%;
+  left: 10px; /* Ajusta la posición izquierda según necesites */
+  transform: translateY(-50%);
+  height: 18px; /* Ajusta el tamaño del icono según necesites */
+  width: 18px; /* Ajusta el tamaño del icono según necesites */
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  padding-left: 35px; /* Deja espacio suficiente para el icono */
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+
+.loginButton {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+}
+
+.loginButtonIcon {
+  margin-left: auto;
+  height: 20px; /* Ajusta el tamaño del icono según necesites */
+  width: 20px; /* Ajusta el tamaño del icono según necesites */
+}
+
+/* login.module.css */
+.inputLabel {
+  display: block;
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: white;
+   /* Cambiamos el color del texto a blanco */
+}
+
+.inputGroup {
+  margin-bottom: 10px;
+}
+
+/* Agregamos un pequeño margen inferior a las etiquetas */
+.inputLabel {
+  margin-bottom: 5px;
+}
+
+/* login.module.css */
+.loginButton {
+  padding: 10px 20px;
+  background-color: #ffab40ff; /* Cambia el color de fondo del botón a un color de tu elección */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.loginButtonIcon {
+  margin-left: auto;
+  height: 20px; /* Ajusta el tamaño del icono según necesites */
+  width: 20px; /* Ajusta el tamaño del icono según necesites */
+}
