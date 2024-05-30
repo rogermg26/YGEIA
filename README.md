@@ -67,4 +67,10 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Our Collaborative Network
 
+This project originates from the Engineering Projects course within the Bachelor's Degree in Data Science and Engineering at the Polytechnic University of Catalonia ([UPC](https://www.upc.edu/en/)). 
+
+In collaboration with the Catalan Institute of Health ([ICS](https://ics.gencat.cat/ca/inici/)), we have established a robust network to tackle two critical challenges: mental health (YGEIA) and environmental health (EXAMBA). The environmental health initiative is passionately led by the dedicated and talented team [EXAMBA](https://github.com/examba-tech/dashboard). 
+
+Together, we are devoted to fostering a healthier, more resilient community by applying data science to health.
+
 ![Logotpis](images/Logotips.png)
